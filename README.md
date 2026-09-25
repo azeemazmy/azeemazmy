@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=52&duration=1200&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=M.+ASHFAQ;DEVELOPER;DESIGNER;PHOTOGRAPHER;FOUNDER;M.+ASHFAQ" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=52&duration=1200&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=M.+ASHFAQ;DEVELOPER;DESIGNER;PHOTOGRAPHER;FOUNDER;M.+Azeem" alt="Name"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=800&color=555555&center=true&vCenter=true&width=650&height=28&lines=▸+Full-Stack+Developer+%7C+UI%2FUX+Architect+%7C+Photographer;▸+Shipping+from+Colombo+🇱🇰+to+the+world;▸+Founder+%40+Vantage+Studio+%7C+Open+for+Freelance" alt="Sub"/>
 
